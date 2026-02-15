@@ -1,5 +1,10 @@
 # Blog Analytics Dashboard
 
+Check out the live dashboard here:  
+[View Dashboard](https://app.powerbi.com/groups/me/reports/9efe954e-45c2-4b14-b13d-38218a727b4c/de397545a1f600b70012?experience=power-bi)
+
+# Blog Analytics Dashboard
+
 This project is a **Power BI dashboard** that tracks and analyzes my blog posts to give insights into posting patterns and frequency.
 
 ## Overview
